@@ -1,0 +1,7 @@
+client/node_modules/
+client/package-lock.json
+server/Boogle/bin
+server/Boogle/obj
+server/Boogle/Boogle/bin
+server/Boogle/Boogle/obj
+server/Boogle/.idea

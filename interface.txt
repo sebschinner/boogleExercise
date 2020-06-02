@@ -1,0 +1,19 @@
+C# server:
+
+get /banjos
+
+[{
+    "Name",
+    "Marke",
+    "Herstellungsland",
+    "Seriennummer"
+}]
+
+
+put /banjo
+
+[{
+    "Name",
+    "Marke",
+    "Herstellungsland"
+}]
